@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>override init(frame: CGRect) {
+	<string>override init(frame: CGRect = .zero) {
         super.init(frame: frame)
         setupUI()
     }
@@ -22,13 +22,13 @@
 
     }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>F022419F-C7C8-459F-9886-E7C0F69214BC</string>
+	<string>EB6EC5FB-2677-4222-966D-7E62570F3EDA</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>initframe</string>
+	<string>initView</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
